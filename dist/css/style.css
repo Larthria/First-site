@@ -1,1 +1,1 @@
-@import"https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;900&display=swap";*{font-family:"Heebo" sans-serif}.header__content_container{width:1132px}
+@import"https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;900&display=swap";*{font-family:"Heebo" sans-serif}.header__content_container{width:1032px;border:2px solid #000;margin:0 auto;-webkit-box-sizing:border-box;box-sizing:border-box}.header .menu__list{list-style-type:none}.header .menu__list li a{color:#000;text-decoration:none}
